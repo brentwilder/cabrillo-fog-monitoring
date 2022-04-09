@@ -7,3 +7,8 @@ TO-DO:
 - install cameras
 - work with AK to conduct RTK/GPS
 - think about possible UI / spatial interfacing of fog data
+
+
+References:
+- r-hazer script from NEON
+- NDVI script from Planet Labs
