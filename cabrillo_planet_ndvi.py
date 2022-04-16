@@ -3,6 +3,8 @@ import numpy
 from xml.dom import minidom
 
 # Inputs for function.. to be scaled up in future
+# This doesn't need to be operational persay like the fog script..
+# therefore, should have this bee something that can run in one shot where we need all of the data
 image = "./data/20210711_183242/20210711_183242_20_240c_3B_AnalyticMS_SR_clip.tif"
 xml = "./data/20210711_183242/20210711_183242_20_240c_3B_AnalyticMS_metadata_clip.xml"
 output = './data/20210711_183242/ndvi.tif'
