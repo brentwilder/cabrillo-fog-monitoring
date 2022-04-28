@@ -5,7 +5,8 @@
 TO-DO:
 - install cameras
 - work with AK to conduct RTK/GPS
-- test fog detect, set up paths, set up schedulers
+- verify threshold value for r-hazer with cabrillo images
+- automate process and save all data to .csv
 - create online UI / spatial interfacing of fog data
 
 References:
