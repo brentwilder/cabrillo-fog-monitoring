@@ -11,4 +11,3 @@ TO-DO:
 
 References:
 - r-hazer script from NEON
-- NDVI script from Planet Labs
