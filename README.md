@@ -6,7 +6,6 @@ TO-DO:
 - install cameras
 - work with AK to conduct RTK/GPS
 - verify threshold value for r-hazer with cabrillo images
-- automate process and save all data to .csv
 - spatial analysis with NDVI over the park
 
 References:
