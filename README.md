@@ -7,7 +7,8 @@ TO-DO:
 - work with AK to conduct RTK/GPS
 - verify threshold value for r-hazer with cabrillo images
 - automate process and save all data to .csv
-- create online UI / spatial interfacing of fog data
+- spatial analysis with NDVI over the park
 
 References:
 - r-hazer script from NEON
+- ndvi script from Planet Labs
