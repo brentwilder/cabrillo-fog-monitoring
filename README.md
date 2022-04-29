@@ -3,7 +3,7 @@
 ### Summer 2022
 
 TO-DO:
-- install cameras
+- install stations
 - work with AK to conduct RTK/GPS
 - verify threshold value for r-hazer with cabrillo images
 - spatial analysis with NDVI over the park
