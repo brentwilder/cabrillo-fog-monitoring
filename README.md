@@ -3,7 +3,7 @@
 ### Summer 2022
 
 TO-DO:
-- install cameras
+- install stations
 - work with AK to conduct RTK/GPS
 - Use __rsync__ to parse new incoming images
 - Use a scheduler to grab new photos each day @ noon
