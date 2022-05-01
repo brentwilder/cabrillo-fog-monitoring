@@ -1,9 +1,7 @@
 # Cabrillo Fog Monitoring Project
-
-### Summer 2022
-
 ![cabrillo](https://www.nps.gov/cabr/planyourvisit/images/Peninsula_Overview.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
 
+### Summer 2022
 TO-DO:
 - install stations
 - work with AK to conduct RTK/GPS
